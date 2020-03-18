@@ -1,3 +1,5 @@
+# **Manual de instalacao**
+
 Este documento tem como objetivo seguir os passos de instalação e configuração dos recursos necessários para automação de testes web utilizando o framework:
  - **Ruby**: Linguagem de programação para escrita dos scripts;
  - **Capybara**: Ferramenta de automação de testes escrito em ruby, que simula usuários reais interagindo com a aplicação. Ela “turbina” a automação de aplicações web usando o Selenium WebDriver. 
